@@ -36,10 +36,5 @@
         "psr-4": {
             "Ppantelakis\\BarCode\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            
-        }
     }
 }
