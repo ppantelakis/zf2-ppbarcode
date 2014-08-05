@@ -18,20 +18,7 @@
         "endroid"
     ],
     "homepage": "https://github.com/pantelakis/ZF2-PpBarCode",
-    "require": {
-        "php" : ">=5.3.0",
-        "zendframework/zend-mvc": ">=2.2.2",
-        "zendframework/zend-servicemanager": ">=2.2.2",
-        "zendframework/zend-view": ">=2.2.2",
-        "zendframework/zend-loader": ">=2.2.2",
-        "zendframework/zend-modulemanager": ">=2.2.2",
-        "zendframework/zend-http": ">=2.2.2",
-        "zendframework/zend-eventmanager": ">=2.2.2",
-        "zendframework/zend-stdlib": ">=2.2.2"
-    },
-    "require-master": {
-        
-    },
+    
     "autoload": {
         "psr-4": {
             "Ppantelakis\\BarCode\\": "src/"
