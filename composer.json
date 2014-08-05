@@ -1,5 +1,5 @@
 {
-    "name": "pantelakis/zf2-ppbarcode",
+    "name": "ppantelakis/zf2-ppbarcode",
     "description": "Bar Code generation module for Zend Framework 2 based on ZF2 Barcode",
     "license": "MIT",
     "authors": [
