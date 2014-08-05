@@ -1,0 +1,49 @@
+{
+    "name": "pantelakis/zf2-ppbarcode",
+    "description": "QR Code generation module for Zend Framework 2 based on Endroid QR code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pantelakis Panagiotis",
+            "email": "panagiotis.pantelakis@gmail.com",
+            "homepage": "http://www.pantelakis.org",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "zf2",
+        "module",
+        "barcode",
+        "php",
+        "endroid"
+    ],
+    "homepage": "https://github.com/pantelakis/ZF2-PpBarCode",
+    "require": {
+        "php" : ">=5.3.0",
+        "endroid/barcode": ">=1.2.0",
+        "zendframework/zend-mvc": ">=2.2.2",
+        "zendframework/zend-servicemanager": ">=2.2.2",
+        "zendframework/zend-view": ">=2.2.2",
+        "zendframework/zend-loader": ">=2.2.2",
+        "zendframework/zend-modulemanager": ">=2.2.2",
+        "zendframework/zend-http": ">=2.2.2",
+        "zendframework/zend-eventmanager": ">=2.2.2",
+        "zendframework/zend-stdlib": ">=2.2.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "squizlabs/php_codesniffer": "1.*",
+        "satooshi/php-coveralls": "dev-master",
+        "zendframework/zendframework": ">=2.2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ppantelakis\\BarCode\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ppantelakis\\BarCode\\Test\\": "test/"
+        }
+    }
+}
