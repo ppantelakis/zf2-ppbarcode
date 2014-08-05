@@ -29,7 +29,7 @@
         "zendframework/zend-eventmanager": ">=2.2.2",
         "zendframework/zend-stdlib": ">=2.2.2"
     },
-    "require-dev": {
+    "require-master": {
         
     },
     "autoload": {
