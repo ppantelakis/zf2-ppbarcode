@@ -1,6 +1,6 @@
 ## ZF2-PpBarCode
 
-Installation1
+Installation
 ------------
 
 The preferred installation method is by using [composer](https://getcomposer.com). Just add this package to your composer.json
