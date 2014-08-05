@@ -1,6 +1,6 @@
 {
     "name": "pantelakis/zf2-ppbarcode",
-    "description": "QR Code generation module for Zend Framework 2 based on Endroid QR code",
+    "description": "Bar Code generation module for Zend Framework 2 based on ZF2 Barcode",
     "license": "MIT",
     "authors": [
         {
