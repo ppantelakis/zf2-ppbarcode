@@ -14,8 +14,7 @@
         "zf2",
         "module",
         "barcode",
-        "php",
-        "endroid"
+        "php"
     ],
     "homepage": "https://github.com/pantelakis/zf2-ppbarcode",
     
