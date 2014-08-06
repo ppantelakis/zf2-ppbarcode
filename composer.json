@@ -17,7 +17,7 @@
         "php",
         "endroid"
     ],
-    "homepage": "https://github.com/pantelakis/ZF2-PpBarCode",
+    "homepage": "https://github.com/pantelakis/zf2-ppbarcode",
     
     "autoload": {
         "psr-4": {
